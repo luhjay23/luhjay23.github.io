@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<titleJay's world website</title>
+	<title>Jay's world</title>
 	<!-- THE TITLE element is the name of the page, it is also visible in the browser tab. Its always good practice to give each page an appropriate title. -->
 	<meta name="description" content="A sample website, nothin fancy">
       <meta http-equiv="author" content="Francisco Campos Arias">
@@ -22,19 +22,19 @@
 	</header>
 	<!-- END HEADER | the header element in new to HTML5 -->
 		<div class="main">
-			<h2>This is just an example with some web content. This is the Hero Unit.</h2>
+			<h2>=I told my anseters i was gonna make them prod and they died to help me and the other black people ''glen'' to be free and have water.</h2>
 		</div>
 		<div class="feature">
-			<h3>Featured Content 1</h3>
-			<p>lorem ipsum dolor amet lorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum.</p>
+			<h3>To all my ansesters</h3>
+			<p> Man i cant belive i can sit in the front of the bus thanks to rosa parks ''ngl it's wrong how they ahve a yellow seat on the bus and thanks to brother mlk he had a dreammmmm!!</p>
 			<!-- LOREM IPSUM is universally used. Lorem ipsum is dummy text, it does't really mean anything. Its used to fill space or for mockups. -->
 		</div>
 		<div class="feature">
-			<h3>Featured Content 2</h3>
-			<p>lorem ipsum dolor amet lorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor.</p>
+			<h3>Why i made this website</h3>
+			<p>This is a website to prove to my teacher that im smarter than eveyone in the class room i mastered coding before everyone and it 12:47 in the moring.</p>
 		</div>
 	<footer>
-		&copy;2012 Francisco Campos Arias, All Rigts Reserved.
+		&copy;1619 thanks to all slaves, All Rigts Reserved.
 	</footer>
 	<!-- END FOOTER | the footer element is also new to HTML5 -->
 	</div>
