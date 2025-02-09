@@ -22,7 +22,7 @@
 	</header>
 	<!-- END HEADER | the header element in new to HTML5 -->
 		<div class="main">
-			<h2>I told my anseters i was gonna make them prod and they died to help me and the other black people ''glen'' to be free and have water.</h2>
+			<h2>Why i made the website is a good answer and the text below will tell you why!.</h2>
 		</div>
 		<div class="feature">
 			<h3>To all my ansesters</h3>
