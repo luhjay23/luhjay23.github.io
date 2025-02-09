@@ -47,4 +47,4 @@
 
 instagram:
   name: 2perccjae
-  profile_url_prefix: https://www.instagram.com/2perccjae
+ :https://www.instagram.com/2perccjae
