@@ -1,4 +1,4 @@
-<!Long live the slaves L>
+<!Long live the slaves>
 <!-- THE DOCTYPE tells the browser what type of webpage to render, the doctype used in this website is HTML5 which is the most recent HTML. -->
 <html lang="en-US">
 <head>
