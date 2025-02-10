@@ -26,7 +26,7 @@
 		</div>
 		<div class="feature">
 			<h3>To all my ansesters</h3>
-			<p> Man i cant belive i can sit in the front of the bus thanks to rosa parks ''ngl it's wrong how they ahve a yellow seat on the bus and thanks to brother mlk he had a dreammmmm!!</p>
+			<p> Man i cant belive i can sit in the front of the bus thanks to rosa parks ''ngl it's wrong how they have a yellow seat on the bus and thanks to brother mlk he had a dreammmmm!!</p>
 			<!-- LOREM IPSUM is universally used. Lorem ipsum is dummy text, it does't really mean anything. Its used to fill space or for mockups. -->
 		</div>
 		<div class="feature">
